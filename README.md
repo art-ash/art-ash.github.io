@@ -7,4 +7,4 @@
 [https://ayasenko.github.io/latinizer/](https://ayasenko.github.io/latinizer/)
 
 ### Bouncing Balls on Canvas
-[https://ayasenko.github.io/bouncing-balls-on-canvas//](https://ayasenko.github.io/bouncing-balls-on-canvas/)
+[https://ayasenko.github.io/bouncing-balls-on-canvas/](https://ayasenko.github.io/bouncing-balls-on-canvas/)
