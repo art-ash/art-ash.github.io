@@ -1,10 +1,10 @@
 ## Pet-projects hosted on Github Pages
 
 ### Fifteen Game with Drag'n'Drop
-[https://ayasenko.github.io/fifteen-game/](https://ayasenko.github.io/fifteen-game/)
+[https://art-ash.github.io/fifteen-game/](https://art-ash.github.io/fifteen-game/)
 
 ### Cyrillic to latin script converter
-[https://ayasenko.github.io/latinizer/](https://ayasenko.github.io/latinizer/)
+[https://art-ash.github.io/latinizer/](https://art-ash.github.io/latinizer/)
 
 ### Bouncing Balls on Canvas
-[https://ayasenko.github.io/bouncing-balls/](https://ayasenko.github.io/bouncing-balls/)
+[https://art-ash.github.io/bouncing-balls/](https://art-ash.github.io/bouncing-balls/)
